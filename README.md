@@ -15,6 +15,14 @@ Chat Testinng
 Reporting a user
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7a311860-1ac0-4a94-b61d-39d8489e4f0c" />
 
+
+<H3>nothing on Veil</H3>
+
+I did forgot to git add . and directly did git commit
+
+here is the link of  corrected Veil
+
+https://github.com/chadwick223/Klymo-Ascent
  
  # Klymo-Ascent
 
@@ -44,4 +52,5 @@ User can:
    - Next match
    ↓
 Chat session ends → messages deleted
+
 
