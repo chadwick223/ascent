@@ -2,6 +2,16 @@ Demo:-
 
 https://drive.google.com/file/d/1fVyDiaKAbt1yb4E8V7fUkbRR3thCGBDI/view?usp=sharing
 
+# problem while accessing Veil file
+<H3>nothing on Veil</H3>
+
+I did forgot to git add . and directly did git commit
+
+here is the link of  corrected Veil
+
+https://github.com/chadwick223/Klymo-Ascent
+
+
 
 Chat Testinng
 
@@ -52,5 +62,6 @@ User can:
    - Next match
    ↓
 Chat session ends → messages deleted
+
 
 
